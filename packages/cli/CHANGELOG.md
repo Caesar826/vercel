@@ -1,5 +1,28 @@
 # vercel
 
+## 37.13.0
+
+### Minor Changes
+
+- add telemetry tracking to `env add` ([#12357](https://github.com/vercel/vercel/pull/12357))
+
+- [cli] add telemetry for `vercel target ls` ([#12352](https://github.com/vercel/vercel/pull/12352))
+
+- [cli] add telemetry tracking to `project list` ([#12339](https://github.com/vercel/vercel/pull/12339))
+
+- [cli] add telemetry tracking to `project add` ([#12340](https://github.com/vercel/vercel/pull/12340))
+
+- Add telemetry for `vercel bisect` ([#12362](https://github.com/vercel/vercel/pull/12362))
+
+- [cli] add telemetry for `vercel redeploy` ([#12353](https://github.com/vercel/vercel/pull/12353))
+
+- Add telemetry for `vercel link` ([#12360](https://github.com/vercel/vercel/pull/12360))
+
+### Patch Changes
+
+- Updated dependencies [[`13bb443f2b0791c7bd402447fcb540cffd0b6eae`](https://github.com/vercel/vercel/commit/13bb443f2b0791c7bd402447fcb540cffd0b6eae)]:
+  - @vercel/remix-builder@2.2.13
+
 ## 37.12.1
 
 ### Patch Changes
